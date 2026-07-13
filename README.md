@@ -10,6 +10,8 @@
 **介绍必看：** 产品说明、演示站、截图等相关内容请 [🧀 进入产品介绍](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf) 查看，本仓库仅含有基本介绍，且下述介绍内容可能不是最新内容，最新内容请均以此[🧀 产品介绍链接](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)为准。
 
 ## 演示站点
+> 若需体验，直接注册账号即可，新注册的账户有赠送体验积分～
+
 - [🌍 Plus版演示站](https://demo6.goamzai.com)
 - [🌍 Pro版演示站](https://prodemo6.goamzai.com)
 
